@@ -1,0 +1,26 @@
+.Todo-container {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.Todo-header {
+  color: #0000ff;
+}
+
+.Todo-input {
+  color: #000000;
+}
+
+.Todo-listar {
+  color: #ff0000;
+}
+  
+.Todo-listar {
+    color: #ff0000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
